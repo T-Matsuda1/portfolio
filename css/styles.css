@@ -11508,6 +11508,10 @@ html {
   background-color: #1a252f;
 }
 
-.portfolio_No.1 {
+.portfolio_No.1{
   font-size: 70px;
+  font-size: 2em;
+  font-weight: bold;
+  color: skyblue;
+  
 }
